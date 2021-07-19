@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fabd459d-a2c1-40cb-b426-1b5dc8d847e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1vQlAONhJyShxyz050b2jIQiQxz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ch06-dynamic-sql" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestMyBatis.testSelecMap">
+    <configuration name="TestMyBatis.testSelecMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch05-return-result" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpowernode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bjpowernode" />
+      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.TestMyBatis" />
+      <option name="METHOD_NAME" value="testSelecMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMyBatis.testSelectStudentById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch05-return-result" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpowernode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bjpowernode" />
+      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.TestMyBatis" />
+      <option name="METHOD_NAME" value="testSelectStudentById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMyBatis.testSelectViewStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch05-return-result" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpowernode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bjpowernode" />
+      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.TestMyBatis" />
+      <option name="METHOD_NAME" value="testSelectViewStudent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestMyBatis.testSelecMap" />
+        <item itemvalue="JUnit.TestMyBatis.testSelectViewStudent" />
+        <item itemvalue="JUnit.TestMyBatis.testSelectStudentById" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fabd459d-a2c1-40cb-b426-1b5dc8d847e8" name="Default Changelist" comment="" />
+      <created>1626502048549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626502048549</updated>
+      <workItem from="1626502052566" duration="3488000" />
+      <workItem from="1626662809665" duration="2449000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="118" key="FileChooserDialogImpl" timestamp="1626663454789">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="452" y="118" key="FileChooserDialogImpl/62.0.1218.720@62.0.1218.720" timestamp="1626663454789" />
+    <state width="1175" height="135" key="GridCell.Tab.0.bottom" timestamp="1626506995824">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="135" key="GridCell.Tab.0.bottom/62.0.1218.720@62.0.1218.720" timestamp="1626506995824" />
+    <state width="1175" height="135" key="GridCell.Tab.0.center" timestamp="1626506995824">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="135" key="GridCell.Tab.0.center/62.0.1218.720@62.0.1218.720" timestamp="1626506995824" />
+    <state width="1175" height="135" key="GridCell.Tab.0.left" timestamp="1626506995824">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="135" key="GridCell.Tab.0.left/62.0.1218.720@62.0.1218.720" timestamp="1626506995824" />
+    <state width="1175" height="135" key="GridCell.Tab.0.right" timestamp="1626506995824">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="135" key="GridCell.Tab.0.right/62.0.1218.720@62.0.1218.720" timestamp="1626506995824" />
+    <state x="368" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1626662817684">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="368" y="188" key="com.intellij.ide.util.TipDialog/62.0.1218.720@62.0.1218.720" timestamp="1626662817684" />
+  </component>
+</project>
